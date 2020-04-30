@@ -1,0 +1,10 @@
+[2018-07-16 10:00:55] Unknown database 'postas'
+[2018-07-16 10:01:59] Connection to Database Successful
+[2018-07-16 10:03:18] Access denied for user 'root4'@'localhost' (using password: YES)
+[2018-07-16 10:03:40] Access denied for user 'root4'@'localhost' (using password: YES)
+[2018-07-16 10:04:12] No connection could be made because the target machine actively refused it.
+
+[2018-07-16 11:04:59] No connection could be made because the target machine actively refused it.
+
+[2020-04-16 22:45:42] Connection refused
+[2020-04-16 22:46:10] Connection refused
